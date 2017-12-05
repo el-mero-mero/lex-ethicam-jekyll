@@ -1,2 +1,4 @@
 name: Steve Aragón, el mero-mero
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
